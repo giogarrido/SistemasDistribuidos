@@ -1,0 +1,2 @@
+# SistemasDistribuidos
+Lector de archivos
